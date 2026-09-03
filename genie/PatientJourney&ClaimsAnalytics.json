@@ -4621,7 +4621,7 @@
         {
           "id": "01f17f9e184c1a239d1e23ce86fb47b8",
           "question": [
-            "What is the largest untapped conversion opportunity at institution level"
+            "What is the largest conversion opportunity at institution level"
           ],
           "sql": [
             "SELECT \r\n",
